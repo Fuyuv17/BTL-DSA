@@ -1,0 +1,3 @@
+Tong hai da thuc: 6x + 7x^2 + 4x^3 + 5x^4
+Hieu hai da thuc: -7x^2 + -4x^3 + 5x^4
+Tich hai da thuc: 9x^2 + 21x^3 + 12x^4 + 15x^5 + 35x^6 + 20x^7
